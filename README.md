@@ -23,16 +23,15 @@
 
 ```yaml
 name: Aditya Jagtap
-role: Frontend Web Developer
+role: Fullstack Developer
 location: Kharadi, Pune, India
 education: "M.Sc. Computer Science @ Christ College Pune (2025 - 2027)"
-currently_working_at: "PraVik Technologies Pvt. Ltd."
 focus: ["React.js", "JavaScript", "Responsive UI", "MERN Stack", "SEO & CMS"]
-looking_for: ["Internships", "Freelance Projects", "Collaboration"]
+looking_for: ["Full Time Jobs", "Freelance Projects", "Collaboration"]
 fun_fact: "I turn ideas into fast, clean, pixel-perfect web experiences 🚀"
 ```
 
-- 🔭 Currently building and redesigning responsive web pages at **PraVik Technologies**
+- 🔭 Worked at **PraVik Technologies** as a Web Developer, building and redesigning responsive web pages
 - 🌐 Skilled in **HTML, CSS, JavaScript, React.js, Node.js, Express.js & MongoDB**
 - 🎯 Passionate about clean UI, performance optimization, and search visibility
 - 📚 Pursuing an M.Sc. in Computer Science while shipping real-world projects
